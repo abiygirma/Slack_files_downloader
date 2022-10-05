@@ -1,7 +1,8 @@
 # Slack files downloader
 
-   Author: abiysemail@gmail.com
-   Created date: 2022-10-05
+Author: abiysemail@gmail.com
+
+Created date: 2022-10-05
 
    This program search for every files in each json documents 
    downlaoded from slack (Slack Export Data), and download 
